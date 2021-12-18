@@ -30,7 +30,7 @@ function background () {
         var text = $(this).siblings(".description").val();
         var time = $(this).parent().attr("id");
         // Saves text and time to local storage
-        localStorage.setItem(text, time);
+        localStorage.setItem(time, text);
     })  
 }); 
 // Gets description data from local storage
