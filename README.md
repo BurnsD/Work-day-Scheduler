@@ -4,7 +4,8 @@
 
 
 ## Screenshot of application
-![screenshot](.Develop/assets/images/wrkday-s.png)
+
+![screenshot](./assets/images/wrkday-s.png)
 
 # Functions
 
