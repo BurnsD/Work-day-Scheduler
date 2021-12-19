@@ -15,3 +15,6 @@
 
 ### Allows all text to be saved within local storage.
 
+#
+## Link to application
+https://burnsd.github.io/Work-day-Scheduler/
